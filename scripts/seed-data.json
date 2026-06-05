@@ -1,0 +1,432 @@
+{
+  "services": [
+    {
+      "slug": "brand-identity",
+      "title": "Brand Identity & Visual Design",
+      "icon": "Layers",
+      "tagline": "Where your brand becomes visual",
+      "summary": "Complete visual systems that define how your brand looks, feels, and communicates across every touchpoint.",
+      "description": "We create complete visual systems that define how your brand looks, feels, and communicates across every touchpoint. From the first logo sketch to the last social media template, every element is designed to feel intentional, premium, and unmistakably yours.",
+      "deliverables": ["Logo Design & Variations", "Visual Identity System", "Brand Style Guide", "Typography System", "Color Palette Development", "Social Media Brand Kit", "Brand Assets & Templates", "Packaging Direction"],
+      "process": [
+        { "number": "01", "title": "Discovery & Brand Audit", "description": "We start by understanding your business, audience, and competitive landscape to define a clear creative direction." },
+        { "number": "02", "title": "Concept Exploration", "description": "We develop multiple visual directions — sketches, type studies, and mood frames — before committing to a system." },
+        { "number": "03", "title": "Identity System Design", "description": "We build out the full system: logo suite, typography, color, motion principles, and brand assets." },
+        { "number": "04", "title": "Guidelines & Handoff", "description": "We deliver a complete brand book and an organized asset library so your team can apply the identity anywhere." }
+      ],
+      "benefits": [
+        { "title": "Instant Recognition", "description": "A distinctive identity that customers remember after one glance — building trust through repeated exposure." },
+        { "title": "Consistency at Scale", "description": "A documented system that keeps your brand coherent across teams, platforms, and years of growth." },
+        { "title": "Premium Perceived Value", "description": "Considered design signals quality, which directly impacts pricing power and customer conversion." }
+      ],
+      "starting_price": 4500,
+      "price_label": "from $4,500",
+      "display_order": 1,
+      "active": true
+    },
+    {
+      "slug": "brand-strategy",
+      "title": "Brand Strategy",
+      "icon": "Target",
+      "tagline": "The thinking behind powerful brands",
+      "summary": "The strategic foundation every successful brand needs — defining who you are, who you serve, and how you win.",
+      "description": "We build the strategic foundation that every successful brand needs — defining who you are, who you serve, and how you win. Strategy is the upstream work that makes every creative decision easier, sharper, and more defensible.",
+      "deliverables": ["Brand Positioning", "Brand Messaging Framework", "Brand Voice & Tone Guide", "Audience Research & Personas", "Competitor Analysis", "Business Direction", "Brand Personality Development", "Naming & Tagline Support"],
+      "process": [
+        { "number": "01", "title": "Research & Insight", "description": "We interview stakeholders, study your category, and map the audience to find the truths your brand can own." },
+        { "number": "02", "title": "Positioning Workshop", "description": "We collaboratively define your unique position — the intersection of what you do best and what the market needs." },
+        { "number": "03", "title": "Messaging Framework", "description": "We craft a hierarchy of messages — from one-line value prop to long-form narrative — that scale across channels." },
+        { "number": "04", "title": "Strategy Playbook", "description": "We deliver a single source of truth: a playbook that aligns marketing, design, and product around one story." }
+      ],
+      "benefits": [
+        { "title": "Sharper Decision Making", "description": "Strategy gives every team a filter for saying no, so creative work stays focused and on-brand." },
+        { "title": "Differentiated Position", "description": "A clear point of view that separates you from competitors and gives customers a reason to choose you." },
+        { "title": "Compounding Brand Equity", "description": "A consistent story told over time becomes the most valuable asset your business owns." }
+      ],
+      "starting_price": 3500,
+      "price_label": "from $3,500",
+      "display_order": 2,
+      "active": true
+    },
+    {
+      "slug": "web-design",
+      "title": "Web Design & Development",
+      "icon": "Monitor",
+      "tagline": "Digital experiences that represent your brand",
+      "summary": "Websites that are beautiful, fast, and built to convert — fully aligned with your brand identity.",
+      "description": "We design and develop websites that are beautiful, fast, and built to convert — fully aligned with your brand identity. Every screen is engineered for performance, accessibility, and measurable business outcomes.",
+      "deliverables": ["Brand-Focused Website Design", "UI/UX Design", "Responsive Development", "Landing Page Design", "Portfolio Websites", "Business Websites", "Conversion Optimization", "SEO Foundation Setup"],
+      "process": [
+        { "number": "01", "title": "UX Architecture", "description": "We map user journeys, define the information architecture, and sketch wireframes before any pixels are pushed." },
+        { "number": "02", "title": "Visual Design", "description": "We layer your brand system onto the architecture — type, color, motion, imagery — for every breakpoint." },
+        { "number": "03", "title": "Development", "description": "We build with modern frameworks like Next.js, optimized for Core Web Vitals, SEO, and analytics from day one." },
+        { "number": "04", "title": "Launch & Optimize", "description": "We QA across devices, ship the launch, and set up the analytics needed to keep improving after go-live." }
+      ],
+      "benefits": [
+        { "title": "Higher Conversion Rates", "description": "Clear UX paired with persuasive design turns more visitors into qualified leads and customers." },
+        { "title": "Faster Load, Better SEO", "description": "A performant, technically sound site climbs search rankings and reduces bounce on every channel." },
+        { "title": "Easy to Maintain", "description": "Component-based builds and clean handoff mean your team can ship updates without breaking anything." }
+      ],
+      "starting_price": 6000,
+      "price_label": "from $6,000",
+      "display_order": 3,
+      "active": true
+    },
+    {
+      "slug": "social-media-branding",
+      "title": "Social Media Branding",
+      "icon": "Share2",
+      "tagline": "Consistent identity across every platform",
+      "summary": "A complete social brand system so your content looks intentional, recognizable, and premium on every feed.",
+      "description": "We extend your brand identity into a complete social system — templates, layouts, and visual rules — so every post looks intentional, recognizable, and premium. Designed for teams that need to ship content fast without losing brand consistency.",
+      "deliverables": ["Social Media Brand System", "Instagram Branding Kit", "Content Visual Templates", "Profile & Cover Design", "Highlight Covers", "Post Design System", "Brand Consistency Guide", "Growth-Focused Strategy"],
+      "process": [
+        { "number": "01", "title": "Channel Audit", "description": "We review your current social presence and competitor channels to find gaps and quick wins." },
+        { "number": "02", "title": "Visual System Design", "description": "We build a modular template library — grids, layouts, and motion — that flexes across post types." },
+        { "number": "03", "title": "Content Playbook", "description": "We define formats, voice, and posting rhythms so your team can produce on-brand content at scale." },
+        { "number": "04", "title": "Rollout & Training", "description": "We hand off editable files, document the system, and train your team to keep the brand consistent." }
+      ],
+      "benefits": [
+        { "title": "Recognizable Feed", "description": "A cohesive visual rhythm makes your profile stop the scroll and build follower trust faster." },
+        { "title": "Faster Content Production", "description": "Templates remove decision fatigue so your team ships more posts in less time, without sacrificing quality." },
+        { "title": "Stronger Growth Signals", "description": "Consistent branding paired with strategic formats increases reach, saves, and follower conversion." }
+      ],
+      "starting_price": 2500,
+      "price_label": "from $2,500",
+      "display_order": 4,
+      "active": true
+    },
+    {
+      "slug": "video-content",
+      "title": "Video Editing & Content",
+      "icon": "Video",
+      "tagline": "Cinematic content that connects and converts",
+      "summary": "Brand-led video and motion content that earns attention, communicates clearly, and drives action.",
+      "description": "We produce cinematic video and motion content that connects emotionally and converts strategically — from launch films to scroll-stopping reels. Every cut is built around a clear narrative and a clear call to action.",
+      "deliverables": ["Brand Videos", "Promotional Videos", "Social Media Reels", "Motion Graphics", "Product Showcase Videos", "Brand Story Videos", "Short Form Content", "Visual Campaign Content"],
+      "process": [
+        { "number": "01", "title": "Concept & Script", "description": "We define the story, hook, and call to action before any frame is shot or edited." },
+        { "number": "02", "title": "Production & Assets", "description": "We source footage, design motion elements, and prepare brand-aligned visual assets for the edit." },
+        { "number": "03", "title": "Editing & Sound", "description": "We cut, grade, score, and mix — building rhythm and emotion into every second of the final piece." },
+        { "number": "04", "title": "Versioning & Delivery", "description": "We export tailored cuts for every channel — vertical, square, horizontal — ready to publish." }
+      ],
+      "benefits": [
+        { "title": "Emotional Connection", "description": "Video communicates personality and feeling faster than any other medium, building deeper brand affinity." },
+        { "title": "Higher Engagement", "description": "Well-crafted motion content outperforms static formats on every platform's algorithm." },
+        { "title": "Versatile Asset Library", "description": "One shoot, many cuts — we maximize the value of every production with multi-channel deliverables." }
+      ],
+      "starting_price": 3000,
+      "price_label": "from $3,000",
+      "display_order": 5,
+      "active": true
+    },
+    {
+      "slug": "business-branding",
+      "title": "Business Branding Solutions",
+      "icon": "Briefcase",
+      "tagline": "Full brand systems for growing businesses",
+      "summary": "End-to-end brand systems for startups, rebrands, and businesses ready to scale with confidence.",
+      "description": "We deliver end-to-end branding solutions for startups launching, established businesses rebranding, and companies preparing to scale. One studio, one team, one cohesive brand system — strategy through execution.",
+      "deliverables": ["Startup Branding Package", "Rebranding Services", "Business Identity System", "Launch Brand Strategy", "Customer Experience Direction", "Digital Brand Presence", "Brand Scaling Systems"],
+      "process": [
+        { "number": "01", "title": "Brand Diagnosis", "description": "We assess where your brand is today — strategy, design, presence — and define what success looks like." },
+        { "number": "02", "title": "Strategy & Direction", "description": "We align on positioning, audience, and the creative direction that will guide the entire build." },
+        { "number": "03", "title": "System Build", "description": "We design and produce every required asset: identity, web, content, and customer-facing touchpoints." },
+        { "number": "04", "title": "Launch & Scale", "description": "We support the rollout, train your team, and stay close to help the brand grow into its new system." }
+      ],
+      "benefits": [
+        { "title": "One Cohesive Brand", "description": "Every touchpoint built under one strategy means no fragmented messaging or mismatched visuals." },
+        { "title": "Faster Time to Market", "description": "A single studio managing strategy, identity, and digital removes handoff friction and ships sooner." },
+        { "title": "Scalable Foundation", "description": "Systems and guidelines that grow with your business — from first launch to international expansion." }
+      ],
+      "starting_price": 9000,
+      "price_label": "from $9,000",
+      "display_order": 6,
+      "active": true
+    }
+  ],
+  "projects": [
+    {
+      "slug": "nova-brand-identity",
+      "title": "Nova — Brand Identity",
+      "client": "Nova Tech Solutions",
+      "year": 2024,
+      "duration": "8 weeks",
+      "category": "Brand Identity",
+      "description": "Complete brand identity system for a modern tech startup entering the AI productivity space.",
+      "tags": ["Logo Design", "Visual Identity", "Brand Guide"],
+      "featured": true,
+      "accent_color": "#6366F1",
+      "services": ["brand-identity", "brand-strategy"],
+      "challenge": "Nova needed a brand that felt innovative and trustworthy at the same time. Their early identity leaned generic-tech: blue gradients, soft icons, no point of view. As they scaled toward enterprise, the brand was actively losing them deals against more confident competitors.",
+      "solution": "We created a bold, minimal identity system anchored by a geometric wordmark and a single high-contrast accent. Every touchpoint — from product UI to investor decks — was built on the same typographic grid, so the brand reads as one company instead of three.",
+      "results": "Brand recognition increased by 80% post-launch.",
+      "metrics": [
+        { "value": "+80%", "label": "Brand recognition", "description": "Unaided recall in their target enterprise segment." },
+        { "value": "3.2x", "label": "Inbound demos", "description": "From the website in the first 90 days post-launch." },
+        { "value": "$18M", "label": "Series A", "description": "Closed four months after the new brand shipped." }
+      ],
+      "testimonial": { "quote": "The new identity didn't just change how we look — it changed how seriously the market takes us. Sales cycles got shorter the week we shipped it.", "author": "Maya Okafor", "role": "Co-founder & CEO, Nova" },
+      "published": true,
+      "display_order": 1,
+      "published_at": "2024-11-01T00:00:00Z"
+    },
+    {
+      "slug": "vertex-web-design",
+      "title": "Vertex — Web Design",
+      "client": "Vertex Robotics",
+      "year": 2025,
+      "duration": "10 weeks",
+      "category": "Web Design",
+      "description": "Marketing site and product configurator for an industrial robotics platform.",
+      "tags": ["Web Design", "UI/UX", "Motion"],
+      "featured": true,
+      "accent_color": "#ADFF2F",
+      "services": ["web-design", "brand-identity"],
+      "challenge": "Vertex sells complex industrial robotics into a buying committee that includes both procurement leads and floor engineers. The old site spoke to neither — it was a brochure for executives that engineers bounced from in seconds.",
+      "solution": "A single-page-feel site with a quiet executive top and a dense, interactive engineering bottom. A live configurator lets buyers spec a unit and walk away with a quote — no email gate, no sales call required.",
+      "results": "Configurator drives 60% of qualified pipeline.",
+      "metrics": [
+        { "value": "+140%", "label": "Qualified leads", "description": "Month-over-month after launch, sourced from the site." },
+        { "value": "1.2s", "label": "LCP on 4G", "description": "Measured on the configurator route, below the 1.5s budget." },
+        { "value": "60%", "label": "Of pipeline", "description": "Now originates from a self-serve configurator session." }
+      ],
+      "testimonial": { "quote": "Our engineers used to bounce off the old site in twelve seconds. Now they're spending eight minutes in the configurator and showing up to calls already sold.", "author": "Daniel Reyes", "role": "Head of Growth, Vertex" },
+      "published": true,
+      "display_order": 2,
+      "published_at": "2025-03-01T00:00:00Z"
+    },
+    {
+      "slug": "pulse-social-branding",
+      "title": "Pulse — Social Branding",
+      "client": "Pulse Fitness",
+      "year": 2024,
+      "duration": "12 weeks (ongoing)",
+      "category": "Social Branding",
+      "description": "Always-on social system for a boutique fitness studio chain — templates, content cadence, and a recognizable visual language.",
+      "tags": ["Social Strategy", "Content", "Templates"],
+      "featured": true,
+      "accent_color": "#FF6B35",
+      "services": ["social-media-branding", "brand-strategy"],
+      "challenge": "Twelve studios, twelve managers, twelve different visual instincts — the Pulse feed looked like twelve different brands. Engagement was flat and the head office was burning out trying to police every post.",
+      "solution": "A single template kit covering the only three formats that actually drive results, plus a content calendar that any studio manager can execute without a designer. Strong enough to be recognizable, loose enough to feel local.",
+      "results": "Engagement up 4x, head office time on social cut in half.",
+      "metrics": [
+        { "value": "4.1x", "label": "Engagement", "description": "Average per-post engagement vs. the prior 90 days." },
+        { "value": "-52%", "label": "Production time", "description": "Hours the head-office team spends on social per week." },
+        { "value": "12", "label": "Studios aligned", "description": "Every location now ships on the same visual system." }
+      ],
+      "testimonial": { "quote": "We stopped looking like twelve different gyms in a trench coat. The feed finally feels like Pulse — and the managers can actually run it.", "author": "Sara Lindqvist", "role": "Brand Director, Pulse" },
+      "published": true,
+      "display_order": 3,
+      "published_at": "2024-09-01T00:00:00Z"
+    },
+    {
+      "slug": "helix-video-content",
+      "title": "Helix — Video Content",
+      "client": "Helix Labs",
+      "year": 2025,
+      "duration": "6 weeks",
+      "category": "Video Content",
+      "description": "Launch film and short-form cut-down system for a biotech tools company.",
+      "tags": ["Video Production", "Motion Design", "Direction"],
+      "featured": false,
+      "accent_color": "#9333EA",
+      "services": ["video-content", "brand-strategy"],
+      "challenge": "Most biotech launches drown in jargon or oversimplify into condescension. Helix needed to land between — confident, plainspoken, and visually serious — and they needed assets that worked across LinkedIn, conferences, and the homepage.",
+      "solution": "A single three-day shoot with a tight script and an aggressive shot list, edited into one hero film and twelve short-form cuts. One production, twelve weeks of content runway.",
+      "results": "Hero film hit 1.8M plays. Twelve cut-downs powered a full quarter of social.",
+      "metrics": [
+        { "value": "1.8M", "label": "Hero plays", "description": "Across LinkedIn, YouTube, and the conference circuit." },
+        { "value": "12", "label": "Cut-downs", "description": "Short-form pieces produced from a single three-day shoot." },
+        { "value": "1 quarter", "label": "Of runway", "description": "Powered Helix's organic social without re-shooting once." }
+      ],
+      "testimonial": { "quote": "We've never had a launch asset that scientists actually shared. The script respected our work and the film respected our viewers.", "author": "Dr. Anna Pettersson", "role": "VP Marketing, Helix Labs" },
+      "published": true,
+      "display_order": 4,
+      "published_at": "2025-05-01T00:00:00Z"
+    },
+    {
+      "slug": "atlas-brand-strategy",
+      "title": "Atlas — Brand Strategy",
+      "client": "Atlas Finance",
+      "year": 2024,
+      "duration": "10 weeks",
+      "category": "Brand Strategy",
+      "description": "Positioning, narrative, and messaging system for a consumer fintech preparing to enter a new market.",
+      "tags": ["Strategy", "Positioning", "Messaging"],
+      "featured": false,
+      "accent_color": "#06B6D4",
+      "services": ["brand-strategy", "brand-identity"],
+      "challenge": "Atlas was about to launch in a market with six aggressive incumbents and a buyer who's been pitched fintech a thousand times. Their existing messaging sounded like every other neobank: friendly, vague, and easy to ignore.",
+      "solution": "A positioning that picks a fight with the category, a narrative spine that survives outside the deck, and a messaging matrix that gives every team — product, sales, support — the same sentences in their pocket.",
+      "results": "Closed Series A within six months of launch.",
+      "metrics": [
+        { "value": "6 mo", "label": "To Series A", "description": "From relaunch to a priced round at 4x the prior valuation." },
+        { "value": "+92%", "label": "Aided awareness", "description": "In the target customer segment, six months post-launch." },
+        { "value": "47%", "label": "Lower CAC", "description": "Paid acquisition cost dropped as the narrative did the lifting." }
+      ],
+      "testimonial": { "quote": "Strategy is the one deliverable we still quote from a year later. Every team uses it. Every meeting starts from it.", "author": "Jules Martin", "role": "CMO, Atlas Finance" },
+      "published": true,
+      "display_order": 5,
+      "published_at": "2024-07-01T00:00:00Z"
+    },
+    {
+      "slug": "verdant-brand-identity",
+      "title": "Verdant — Brand Identity",
+      "client": "Verdant Skin",
+      "year": 2025,
+      "duration": "9 weeks",
+      "category": "Brand Identity",
+      "description": "Identity, packaging, and DTC site for an active-ingredients skincare brand.",
+      "tags": ["Identity", "Packaging", "E-commerce"],
+      "featured": false,
+      "accent_color": "#10B981",
+      "services": ["brand-identity", "web-design"],
+      "challenge": "Active-ingredients skincare is a credibility market: serious customers don't trust pastel watercolor brands, but they bounce off lab-coat sterility too. Verdant needed to feel earned, clinical, and human at once.",
+      "solution": "A precise typographic system, a single saturated green, and packaging that treats the back of the bottle as the hero. The site reads like a product brief, not a catalog.",
+      "results": "$1.2M GMV in launch quarter.",
+      "metrics": [
+        { "value": "$1.2M", "label": "Launch GMV", "description": "First-quarter DTC revenue, 38% above their internal plan." },
+        { "value": "3.4%", "label": "Site conversion", "description": "Well above the 1.8% category benchmark for skincare DTC." },
+        { "value": "40+", "label": "Retailers", "description": "Picked up the line in the first six months on shelf." }
+      ],
+      "testimonial": { "quote": "We finally look like the brand our chemistry deserves. The site is doing the job three salespeople used to do.", "author": "Imogen Vance", "role": "Founder, Verdant" },
+      "published": true,
+      "display_order": 6,
+      "published_at": "2025-02-01T00:00:00Z"
+    },
+    {
+      "slug": "kindred-web-design",
+      "title": "Kindred — Web Design",
+      "client": "Kindred Ventures",
+      "year": 2025,
+      "duration": "7 weeks",
+      "category": "Web Design",
+      "description": "Publishing-first marketing site for a venture studio backing early-stage founders.",
+      "tags": ["Web Design", "Editorial", "CMS"],
+      "featured": false,
+      "accent_color": "#F59E0B",
+      "services": ["web-design", "social-media-branding"],
+      "challenge": "Most venture studio sites look identical: hero portfolio grid, team page, tiny logo. Kindred competes on judgment, not deal flow, so the site needed to lead with thinking, not assets.",
+      "solution": "An editorial home page that surfaces three recent essays above the fold, a typographic system tuned for long reads, and a CMS the partners actually use because the writing surface is the same as the reading surface.",
+      "results": "3x inbound deal flow within the first quarter.",
+      "metrics": [
+        { "value": "3.1x", "label": "Inbound deals", "description": "Qualified founder intros vs. the prior quarter." },
+        { "value": "8 min", "label": "Avg read time", "description": "On the home essay — well above the 1:20 industry median." },
+        { "value": "14", "label": "Essays shipped", "description": "By the partners in the first 90 days. The CMS got used." }
+      ],
+      "testimonial": { "quote": "The site changed who emails us. We're hearing from the founders we actually want to back, before they pitch anyone else.", "author": "Mateo Aguirre", "role": "Partner, Kindred" },
+      "published": true,
+      "display_order": 7,
+      "published_at": "2025-04-01T00:00:00Z"
+    },
+    {
+      "slug": "north-social-branding",
+      "title": "North — Social Branding",
+      "client": "North Coffee Co.",
+      "year": 2024,
+      "duration": "5 weeks",
+      "category": "Social Branding",
+      "description": "Social system and shelf-to-feed brand language for a specialty coffee roaster expanding nationally.",
+      "tags": ["Social", "Brand Extension", "Templates"],
+      "featured": false,
+      "accent_color": "#EF4444",
+      "services": ["social-media-branding", "brand-identity"],
+      "challenge": "The packaging was the hero — sharp type, strong color, a real point of view. The Instagram was photos of latte art and a Canva sale graphic. The two looked like different companies, and the brand was leaking equity on every post.",
+      "solution": "A template system built directly from the bag — same grid, same type, same color discipline — and a content rhythm that ties feed posts to drops, origins, and the people behind them.",
+      "results": "Wholesale inbound up 5x. The feed finally looks like the bag.",
+      "metrics": [
+        { "value": "5.2x", "label": "Wholesale inbound", "description": "New retailer inquiries via Instagram in the first quarter." },
+        { "value": "+38%", "label": "Follower growth", "description": "Quarter-over-quarter, with engagement holding flat per follower." },
+        { "value": "0", "label": "Canva posts", "description": "Down from roughly twelve per month. The template system held." }
+      ],
+      "testimonial": { "quote": "Customers told us the Instagram finally feels like the coffee. That sentence is worth the entire engagement.", "author": "Eli Brennan", "role": "Founder, North Coffee" },
+      "published": true,
+      "display_order": 8,
+      "published_at": "2024-06-01T00:00:00Z"
+    }
+  ],
+  "posts": [
+    {
+      "slug": "what-makes-a-brand-system-last",
+      "title": "What makes a brand system actually last",
+      "excerpt": "Most identities don't fail at launch — they fail in the third year, when the original team is gone and the rules get foggy.",
+      "content": "The brands that age well share three traits: a defensible visual idea, a writing voice their team can recreate without a stylist, and guidelines short enough to actually be read. We'll break down each.\n\nA defensible visual idea is one that can't be copied by swapping a font. It lives in proportion, in rhythm, in the relationship between elements — not in a single mark. When the idea is structural, the brand survives a logo refresh.\n\nA recreatable voice matters more than a clever one. If your team needs a copywriter to sound like the brand, the brand will drift the moment that person leaves. Document the patterns, not just the personality.\n\nFinally: short guidelines get used. A 200-page brand book is a monument; a 12-page one is a tool. Write for the busy marketer who has ten minutes before a deadline.",
+      "category": "Branding",
+      "tags": ["branding", "systems"],
+      "author_name": "Mira Patel",
+      "read_time": 6,
+      "featured": true,
+      "published": true,
+      "published_at": "2026-04-12T00:00:00Z"
+    },
+    {
+      "slug": "designing-for-the-first-five-seconds",
+      "title": "Designing for the first five seconds",
+      "excerpt": "Above-the-fold is a tired phrase, but the underlying truth — that the first impression decides whether the rest gets read — is still doing the work.",
+      "content": "We look at three landing pages we shipped this year and what made the opening frame work: a single visual idea, a verb-led headline, and one obvious next step.\n\nThe single visual idea gives the eye somewhere to land. Two competing focal points read as none. Pick the one thing the visitor should feel, and design the frame around it.\n\nA verb-led headline tells the reader what they can do, not what you are. \"Ship your brand in six weeks\" beats \"A full-service creative studio\" every time.\n\nAnd one obvious next step removes the paralysis of choice. The hero should ask for exactly one action — everything else can wait until they've scrolled.",
+      "category": "Web",
+      "tags": ["web", "conversion"],
+      "author_name": "Jonas Reed",
+      "read_time": 5,
+      "featured": false,
+      "published": true,
+      "published_at": "2026-03-02T00:00:00Z"
+    },
+    {
+      "slug": "how-we-name-things",
+      "title": "How we name things",
+      "excerpt": "Naming is the hardest cheap deliverable. A short, true-feeling name can outlast every other thing the studio makes.",
+      "content": "Our naming process: divergent generation, sound and shape filtering, a small trademark pass, and a one-day team vote. We'll share the templates we use.\n\nDivergent generation is volume without judgment — hundreds of candidates across categories: descriptive, abstract, founder-led, invented. Judgment comes later.\n\nSound and shape filtering is where most names die. We read them aloud, write them by hand, and put them in a sentence. A name that's awkward to say is a name nobody repeats.\n\nThe trademark pass is a reality check, not a legal opinion — a quick search to kill the obvious conflicts before anyone falls in love. Then a one-day vote keeps the decision from dragging into a month of second-guessing.",
+      "category": "Insights",
+      "tags": ["naming", "process"],
+      "author_name": "Mira Patel",
+      "read_time": 5,
+      "featured": false,
+      "published": true,
+      "published_at": "2026-01-20T00:00:00Z"
+    }
+  ],
+  "packages": [
+    {
+      "name": "Brand Starter",
+      "description": "For new businesses that need a sharp, complete identity to launch with confidence.",
+      "price": 1500,
+      "price_label": null,
+      "price_period": "one-time",
+      "features": ["Logo suite & variations", "Core color & type system", "Mini brand guidelines", "Social profile kit", "2 revision rounds"],
+      "popular": false,
+      "active": true,
+      "display_order": 1,
+      "cta_label": "Get Started",
+      "cta_url": "/contact"
+    },
+    {
+      "name": "Brand Growth",
+      "description": "Our most popular package — a full identity system plus the digital presence to use it.",
+      "price": 4500,
+      "price_label": null,
+      "price_period": "one-time",
+      "features": ["Everything in Starter", "Full brand strategy & positioning", "Complete visual identity system", "Marketing website (up to 6 pages)", "Social template library", "Brand book & asset handoff"],
+      "popular": true,
+      "active": true,
+      "display_order": 2,
+      "cta_label": "Get Started",
+      "cta_url": "/contact"
+    },
+    {
+      "name": "Brand Scale",
+      "description": "An end-to-end engagement for established businesses rebranding or preparing to scale.",
+      "price": null,
+      "price_label": "Custom",
+      "price_period": "custom",
+      "features": ["Everything in Growth", "Research & stakeholder workshops", "Video & motion content", "Ongoing social system & training", "Dedicated creative team", "Quarterly brand reviews"],
+      "popular": false,
+      "active": true,
+      "display_order": 3,
+      "cta_label": "Book a Call",
+      "cta_url": "/contact"
+    }
+  ]
+}
