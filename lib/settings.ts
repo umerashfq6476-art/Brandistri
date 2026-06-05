@@ -65,7 +65,7 @@ export const DEFAULT_SETTINGS: SiteSettings = {
   business: {
     name: "Brandistri",
     tagline: "A modern branding studio.",
-    contactEmail: "hello@brandistri.com",
+    contactEmail: "mashab@brandistri.com",
     phone: "",
     address: "",
     available: true,
@@ -85,7 +85,7 @@ export const DEFAULT_SETTINGS: SiteSettings = {
     faviconUrl: "",
   },
   contact: {
-    notificationEmail: "hello@brandistri.com",
+    notificationEmail: "mashab@brandistri.com",
     autoReply:
       "Thanks for reaching out! We've received your message and will reply within 24 hours.",
     formActive: true,

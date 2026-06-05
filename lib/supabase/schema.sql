@@ -393,7 +393,7 @@ create policy "Admins can delete from public buckets"
 -- SEED — default settings rows. Safe to re-run; uses ON CONFLICT.
 -- =============================================================================
 insert into public.settings (key, value, description) values
-  ('site.contact_email', '"hello@brandistri.com"',     'Where contact form messages are delivered.'),
+  ('site.contact_email', '"mashab@brandistri.com"',     'Where contact form messages are delivered.'),
   ('site.business_name', '"Brandistri"',                'Public business name.'),
   ('site.tagline',       '"A modern branding studio."', 'Short tagline used in metadata.'),
   ('site.social',        '{"instagram":"","x":"","linkedin":"","dribbble":""}', 'Social profile URLs.'),

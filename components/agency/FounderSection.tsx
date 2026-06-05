@@ -120,7 +120,7 @@ export default function FounderSection() {
                 <ArrowUpRight className="h-4 w-4 transition-transform group-hover:-translate-y-0.5 group-hover:translate-x-0.5" />
               </Link>
               <Link
-                href="mailto:hello@brandistri.com"
+                href="mailto:mashab@brandistri.com"
                 aria-label="Email the founder"
                 className="inline-flex h-11 w-11 items-center justify-center rounded-full border border-border text-text-primary transition-colors hover:border-accent-secondary hover:text-accent-secondary"
               >

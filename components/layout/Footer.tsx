@@ -32,7 +32,7 @@ const socials = [
 ];
 
 export default function Footer({
-  contactEmail = "hello@brandistri.com",
+  contactEmail = "mashab@brandistri.com",
 }: {
   contactEmail?: string;
 }) {

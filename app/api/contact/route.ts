@@ -180,7 +180,7 @@ export async function POST(request: Request) {
     settings.contact.notificationEmail ||
     settings.business.contactEmail ||
     process.env.CONTACT_EMAIL ||
-    "hello@brandistri.com";
+    "mashab@brandistri.com";
   const fromAddress = process.env.RESEND_FROM_EMAIL || "Brandistri <onboarding@resend.dev>";
 
   if (!apiKey) {
@@ -381,7 +381,7 @@ function wrapEmail(inner: string): string {
           ${inner}
           <tr><td style="padding:36px 32px;border-top:1px solid #222;">
             <div style="font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#555;">Brandistri Studio</div>
-            <div style="margin-top:6px;font-size:12px;color:#888;">Strategic branding &middot; hello@brandistri.com</div>
+            <div style="margin-top:6px;font-size:12px;color:#888;">Strategic branding &middot; mashab@brandistri.com</div>
           </td></tr>
         </table>
       </td></tr>

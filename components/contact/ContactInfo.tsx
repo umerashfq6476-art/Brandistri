@@ -37,7 +37,7 @@ const socials = [
 ];
 
 export default function ContactInfo({
-  contactEmail = "hello@brandistri.com",
+  contactEmail = "mashab@brandistri.com",
 }: {
   contactEmail?: string;
 }) {

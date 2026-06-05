@@ -132,7 +132,7 @@ function welcomeHtml(email: string): string {
           </td></tr>
           <tr><td style="padding:36px 32px;border-top:1px solid #222;margin-top:32px;">
             <div style="font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#555;">Brandistri Studio</div>
-            <div style="margin-top:6px;font-size:12px;color:#888;">Strategic branding &middot; hello@brandistri.com</div>
+            <div style="margin-top:6px;font-size:12px;color:#888;">Strategic branding &middot; mashab@brandistri.com</div>
           </td></tr>
         </table>
       </td></tr>

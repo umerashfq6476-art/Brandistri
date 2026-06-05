@@ -8,7 +8,7 @@ export const siteConfig = {
     "Brandistri helps businesses build powerful brand identities, modern websites, and digital growth systems.",
   ogImage: "/assets/og-image.jpg",
   twitter: "@brandistri",
-  email: "hello@brandistri.com",
+  email: "mashab@brandistri.com",
   founded: "2021",
   sameAs: [
     "https://instagram.com/brandistri",
