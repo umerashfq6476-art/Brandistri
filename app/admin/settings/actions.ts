@@ -50,6 +50,10 @@ export async function saveBusinessSettingsAction(
   revalidatePath("/admin/settings");
   // Refresh the cached settings used by public pages (footer, contact page).
   revalidateTag(SETTINGS_CACHE_TAG);
+  // The logo + contact email live in the root layout (navbar/footer) shown on
+  // every public page, so refresh the whole public route tree immediately
+  // instead of waiting for each page's 60s ISR window.
+  revalidatePath("/", "layout");
   return { ok: true, message: "Business information saved." };
 }
 

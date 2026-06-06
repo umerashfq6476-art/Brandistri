@@ -27,5 +27,8 @@ export const getCachedSiteSettings = unstable_cache(
     }
   },
   ["site-settings"],
-  { tags: [SETTINGS_CACHE_TAG] },
+  // `revalidate` gives the cache a time-based expiry so it self-heals even when
+  // a tag revalidation is missed — e.g. settings edited from a different process
+  // or environment (local admin) than the one serving public pages (the VPS).
+  { tags: [SETTINGS_CACHE_TAG], revalidate: 60 },
 );
