@@ -36,11 +36,11 @@ export default function CaseStudyChallenge({ project }: { project: Project }) {
             className="lg:col-span-8"
           >
             <div
-              className="article-body text-xl leading-relaxed text-text-primary/90 md:text-2xl"
+              className="article-body text-base leading-relaxed text-text-primary/90 md:text-lg"
               // Authored in the trusted admin Tiptap editor.
               dangerouslySetInnerHTML={{ __html: project.challenge }}
             />
-            <div className="mt-10 inline-flex items-center gap-3 rounded-full border border-border bg-surface px-5 py-3 text-sm text-text-secondary">
+            <div className="mt-10 inline-flex items-center gap-3 rounded-full border border-border bg-surface px-5 py-3 text-xs text-text-secondary">
               <span
                 className="h-2 w-2 rounded-full"
                 style={{ backgroundColor: project.color }}

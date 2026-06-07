@@ -34,7 +34,7 @@ export default function CaseStudyResults({ project }: { project: Project }) {
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, margin: "-80px" }}
             transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
-            className="max-w-md text-base md:text-lg leading-relaxed text-text-secondary"
+            className="max-w-md text-sm md:text-base leading-relaxed text-text-secondary"
           >
             {project.results}
           </motion.p>

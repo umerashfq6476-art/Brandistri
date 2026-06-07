@@ -54,7 +54,7 @@ export default function CaseStudyStrategy({ project }: { project: Project }) {
             className="lg:col-span-8"
           >
             <div
-              className="article-body text-lg leading-relaxed text-text-secondary md:text-xl"
+              className="article-body text-base leading-relaxed text-text-secondary md:text-lg"
               // Authored in the trusted admin Tiptap editor.
               dangerouslySetInnerHTML={{ __html: project.solution }}
             />
