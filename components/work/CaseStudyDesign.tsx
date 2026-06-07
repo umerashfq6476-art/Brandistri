@@ -32,15 +32,15 @@ export default function CaseStudyDesign({ project }: { project: Project }) {
           >
             Design Direction
           </motion.h2>
-          <motion.p
+          <motion.div
             initial={{ opacity: 0, y: 16 }}
             whileInView={{ opacity: 1, y: 0 }}
             viewport={{ once: true, margin: "-80px" }}
             transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
-            className="mt-6 max-w-2xl text-base md:text-lg leading-relaxed text-text-secondary"
-          >
-            {project.story}
-          </motion.p>
+            className="article-body mt-6 max-w-2xl text-base leading-relaxed text-text-secondary md:text-lg"
+            // Authored in the trusted admin Tiptap editor.
+            dangerouslySetInnerHTML={{ __html: project.story }}
+          />
         </div>
 
         <div className="mt-14 grid gap-6 lg:grid-cols-12">
