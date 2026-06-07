@@ -31,7 +31,7 @@ export default function ProjectCard({
       >
         <div className="relative aspect-[4/5] overflow-hidden">
           <div
-            className="absolute inset-0 transition-transform duration-700 group-hover:scale-[1.05]"
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-700 group-hover:scale-[1.05]"
             style={{ backgroundImage: project.imageUrl }}
             aria-hidden
           />

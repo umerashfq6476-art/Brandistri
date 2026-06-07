@@ -35,9 +35,11 @@ export default function CaseStudyChallenge({ project }: { project: Project }) {
             transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
             className="lg:col-span-8"
           >
-            <p className="text-xl md:text-2xl leading-relaxed text-text-primary/90">
-              {project.challenge}
-            </p>
+            <div
+              className="article-body text-xl leading-relaxed text-text-primary/90 md:text-2xl"
+              // Authored in the trusted admin Tiptap editor.
+              dangerouslySetInnerHTML={{ __html: project.challenge }}
+            />
             <div className="mt-10 inline-flex items-center gap-3 rounded-full border border-border bg-surface px-5 py-3 text-sm text-text-secondary">
               <span
                 className="h-2 w-2 rounded-full"

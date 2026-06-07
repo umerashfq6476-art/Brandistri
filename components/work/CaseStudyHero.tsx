@@ -80,7 +80,7 @@ export default function CaseStudyHero({ project }: { project: Project }) {
           className="relative aspect-[16/9] overflow-hidden rounded-3xl border border-border"
         >
           <div
-            className="absolute inset-0"
+            className="absolute inset-0 bg-cover bg-center bg-no-repeat"
             style={{ backgroundImage: project.imageUrl }}
             aria-hidden
           />

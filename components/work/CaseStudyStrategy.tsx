@@ -53,9 +53,11 @@ export default function CaseStudyStrategy({ project }: { project: Project }) {
             transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1], delay: 0.2 }}
             className="lg:col-span-8"
           >
-            <p className="text-lg md:text-xl leading-relaxed text-text-secondary">
-              {project.solution}
-            </p>
+            <div
+              className="article-body text-lg leading-relaxed text-text-secondary md:text-xl"
+              // Authored in the trusted admin Tiptap editor.
+              dangerouslySetInnerHTML={{ __html: project.solution }}
+            />
           </motion.div>
         </div>
 

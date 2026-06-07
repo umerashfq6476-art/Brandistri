@@ -111,7 +111,7 @@ function ProjectTile({
         className={`group relative block h-full overflow-hidden rounded-2xl border border-border bg-surface ${aspect}`}
       >
         <div
-          className="absolute inset-0 transition-transform duration-700 group-hover:scale-[1.04]"
+          className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-700 group-hover:scale-[1.04]"
           style={{ backgroundImage: project.imageUrl }}
           aria-hidden
         />

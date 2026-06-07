@@ -59,7 +59,7 @@ export default function CaseStudyNext({ next }: { next: Project }) {
             className="relative mt-14 aspect-[16/7] overflow-hidden rounded-3xl border border-border"
           >
             <div
-              className="absolute inset-0 transition-transform duration-700 group-hover:scale-[1.02]"
+              className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-700 group-hover:scale-[1.02]"
               style={{ backgroundImage: next.imageUrl }}
               aria-hidden
             />
